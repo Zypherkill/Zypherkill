@@ -8,14 +8,14 @@ Starten började för ca 10 år sedan då jag byggde min första speldator, att 
 
 ## Tekniker
 <p align="center">
-  <img src="https://cdn.simpleicons.org/html5/E34F26" height="50" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="50" />    
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="50" />
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="50" alt="JavaScript" />
-  <img src="https://cdn.simpleicons.org/typescript/3178C6" height="50" alt="TypeScript" />
-  <img src="https://cdn.simpleicons.org/react/61DAFB" height="50" alt="React" />
-  <img src="https://cdn.simpleicons.org/express/000000" height="50" alt="Express" />
-  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="50" alt="MongoDB" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/amazonaws.svg" height="50" alt="AWS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />        
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" /
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
   <img src="https://cdn.simpleicons.org/serverless/FD5750" height="50" alt="Serverless" />
 </p>
 

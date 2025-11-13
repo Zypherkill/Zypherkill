@@ -9,7 +9,7 @@ Starten började för ca 10 år sedan då jag byggde min första speldator, att 
 ## Tekniker
 <p align="center">
   <img src="https://cdn.simpleicons.org/html5/E34F26" height="50" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="50" />
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="50" alt="JavaScript" />
   <img src="https://cdn.simpleicons.org/typescript/3178C6" height="50" alt="TypeScript" />
   <img src="https://cdn.simpleicons.org/react/61DAFB" height="50" alt="React" />

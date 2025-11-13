@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hello there 👋
 
 ## Om mig
 En trevlig kille på 29 år från lilla orten Kil som läser till webbutvecklare med fokus på Front-End, stort intresse för ux/ui design och arbetat mycket med det under mina studier i grupp samt inviduella projekt. En fanatiker av tennis och mycket involverad i Värmland där jag lyfter fram nya stjärnor som tränare och arrangerar tävlingar för lokala klubbar.

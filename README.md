@@ -6,17 +6,23 @@ En gooo kille på 29 år från lilla orten Kil som läser till webbutvecklare me
 ## Min IT resa
 Starten började för ca 10 år sedan då jag byggde min första speldator, att pyssla med hårdvara och få allting att fungera för första gången var en känsla som jag aldrig kommer att glömma. Sen dess var hårdvara mitt största intresse och med åren så växte mitt intresse for ui design genom datorspelet world of warcraft, där jag designade ui för mig själv och kompisar för att göra en lättare och bättre spelupplevelse. Där hittade jag min passion för design och vände mig mot studier inom webbutveckling och därav påbörjade min utbildning hos Folkuniversitetet.
 
-## Tekniker
+## 🧰 Tekniker
 
 <p align="center">
-  <img src="https://cdn.simpleicons.org/html5/E34F26" height="50" alt="HTML5" />
-  <img src="https://cdn.simpleicons.org/css3/1572B6" height="50" alt="CSS3" />
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="50" alt="JavaScript" />
-  <img src="https://cdn.simpleicons.org/typescript/3178C6" height="50" alt="TypeScript" />
-  <img src="https://cdn.simpleicons.org/react/61DAFB" height="50" alt="React" />
-  <img src="https://cdn.simpleicons.org/express/FFFFFF" height="50" alt="Express" />
-  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="50" alt="MongoDB" />
-  <img src="https://cdn.simpleicons.org/amazonaws/FF9900" height="50" alt="AWS" />
-  <img src="https://cdn.simpleicons.org/serverless/FD5750" height="50" alt="Serverless" />
+  <!-- Frontend -->
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/html5.svg" height="50" alt="HTML5" style="filter: drop-shadow(0 0 2px #E34F26);" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/css3.svg" height="50" alt="CSS3" style="filter: drop-shadow(0 0 2px #1572B6);" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/javascript.svg" height="50" alt="JavaScript" style="filter: drop-shadow(0 0 2px #F7DF1E);" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/typescript.svg" height="50" alt="TypeScript" style="filter: drop-shadow(0 0 2px #3178C6);" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/react.svg" height="50" alt="React" style="filter: drop-shadow(0 0 2px #61DAFB);" />
+
+  <!-- Backend -->
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/express.svg" height="50" alt="Express" style="filter: invert(100%);" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/mongodb.svg" height="50" alt="MongoDB" style="filter: drop-shadow(0 0 2px #47A248);" />
+
+  <!-- Cloud -->
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/amazonaws.svg" height="50" alt="AWS" style="filter: drop-shadow(0 0 2px #FF9900);" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/serverless.svg" height="50" alt="Serverless" style="filter: drop-shadow(0 0 2px #FD5750);" />
 </p>
+
 

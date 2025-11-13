@@ -6,23 +6,22 @@ En gooo kille på 29 år från lilla orten Kil som läser till webbutvecklare me
 ## Min IT resa
 Starten började för ca 10 år sedan då jag byggde min första speldator, att pyssla med hårdvara och få allting att fungera för första gången var en känsla som jag aldrig kommer att glömma. Sen dess var hårdvara mitt största intresse och med åren så växte mitt intresse for ui design genom datorspelet world of warcraft, där jag designade ui för mig själv och kompisar för att göra en lättare och bättre spelupplevelse. Där hittade jag min passion för design och vände mig mot studier inom webbutveckling och därav påbörjade min utbildning hos Folkuniversitetet.
 
-## 🧰 Tekniker
+## Tekniker
 
-<p align="center">
-  <!-- Frontend -->
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/html5.svg" height="50" alt="HTML5" style="filter: drop-shadow(0 0 2px #E34F26);" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/css3.svg" height="50" alt="CSS3" style="filter: drop-shadow(0 0 2px #1572B6);" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/javascript.svg" height="50" alt="JavaScript" style="filter: drop-shadow(0 0 2px #F7DF1E);" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/typescript.svg" height="50" alt="TypeScript" style="filter: drop-shadow(0 0 2px #3178C6);" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/react.svg" height="50" alt="React" style="filter: drop-shadow(0 0 2px #61DAFB);" />
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
 
-  <!-- Backend -->
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/express.svg" height="50" alt="Express" style="filter: invert(100%);" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/mongodb.svg" height="50" alt="MongoDB" style="filter: drop-shadow(0 0 2px #47A248);" />
+### Backend
+![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
 
-  <!-- Cloud -->
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/amazonaws.svg" height="50" alt="AWS" style="filter: drop-shadow(0 0 2px #FF9900);" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/serverless.svg" height="50" alt="Serverless" style="filter: drop-shadow(0 0 2px #FD5750);" />
-</p>
+### Cloud
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
+![Serverless](https://img.shields.io/badge/Serverless-FD5750?logo=serverless&logoColor=white)
+
 
 

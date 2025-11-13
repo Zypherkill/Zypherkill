@@ -20,13 +20,13 @@ Starten började för ca 10 år sedan då jag byggde min första speldator, att 
 
 ### Backend
  <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" height="40" style="margin-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" height="40" style="margin-right: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" height="40" style="margin-right: 10px;" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" height="40" style="margin-right: 10px;"/> &nbsp;
 </p>
 
 ### Moln
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" style="margin-right: 10px;"/>
-  <img src="https://cdn.simpleicons.org/serverless/FD5750" height="40" alt="Serverless" style="margin-right: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" style="margin-right: 10px;"/> &nbsp;
+  <img src="https://cdn.simpleicons.org/serverless/FD5750" height="40" alt="Serverless" style="margin-right: 10px;"/> &nbsp;
 </p>
 

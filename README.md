@@ -9,24 +9,18 @@ Starten började för ca 10 år sedan då jag byggde min första speldator, att 
 ## Tekniker
 
 ### Frontend
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="40" style="margin-right: 10px;"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="40" style="margin-right: 10px;" /> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40"; style="margin-right: 10px;"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="40" style="margin-right: 10px;"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" height="40" style="margin-right: 10px;"/> &nbsp;
-</p>
-
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
 
 ### Backend
- <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" height="40" style="margin-right: 10px;" /> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" height="40" style="margin-right: 10px;"/> &nbsp;
-</p>
+![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
 
-### Moln
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" style="margin-right: 10px;"/> &nbsp;
-  <img src="https://cdn.simpleicons.org/serverless/FD5750" height="40" alt="Serverless" style="margin-right: 10px;"/> &nbsp;
-</p>
+### Cloud
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
+![Serverless](https://img.shields.io/badge/Serverless-FD5750?logo=serverless&logoColor=white)
+
 

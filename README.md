@@ -6,20 +6,17 @@ En gooo kille på 29 år från lilla orten Kil som läser till webbutvecklare me
 ## Min IT resa
 Starten började för ca 10 år sedan då jag byggde min första speldator, att pyssla med hårdvara och få allting att fungera för första gången var en känsla som jag aldrig kommer att glömma. Sen dess var hårdvara mitt största intresse och med åren så växte mitt intresse for ui design genom datorspelet world of warcraft, där jag designade ui för mig själv och kompisar för att göra en lättare och bättre spelupplevelse. Där hittade jag min passion för design och vände mig mot studier inom webbutveckling och därav påbörjade min utbildning hos Folkuniversitetet.
 
-
 ## Tekniker
 
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+<p align="center">
+  <img src="https://cdn.simpleicons.org/html5/E34F26" height="50" alt="HTML5" />
+  <img src="https://cdn.simpleicons.org/css3/1572B6" height="50" alt="CSS3" />
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="50" alt="JavaScript" />
+  <img src="https://cdn.simpleicons.org/typescript/3178C6" height="50" alt="TypeScript" />
+  <img src="https://cdn.simpleicons.org/react/61DAFB" height="50" alt="React" />
+  <img src="https://cdn.simpleicons.org/express/FFFFFF" height="50" alt="Express" />
+  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="50" alt="MongoDB" />
+  <img src="https://cdn.simpleicons.org/amazonaws/FF9900" height="50" alt="AWS" />
+  <img src="https://cdn.simpleicons.org/serverless/FD5750" height="50" alt="Serverless" />
+</p>
 
-### Backend
-![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
-
-### Moln
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
-![Serverless](https://img.shields.io/badge/Serverless-FD5750?logo=serverless&logoColor=white)

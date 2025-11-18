@@ -19,10 +19,10 @@ Starten började för ca 10 år sedan då jag byggde min första speldator, att 
 
 ### Backend
 ![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+![Serverless](https://img.shields.io/badge/Serverless-FD5750?logo=serverless&logoColor=white)
 
 ### Cloud
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
-![Serverless](https://img.shields.io/badge/Serverless-FD5750?logo=serverless&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
 
 

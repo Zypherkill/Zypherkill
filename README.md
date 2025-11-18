@@ -5,7 +5,7 @@ Läser webbutveckling vid Folkuniversitet i Karlstad, gillar att hålla på med 
 Jag har kunskapar i backend och kan skapa upp en säker backend i serverless och express, men jag föredrar att lägga mitt fokus på frontend utvecklingen.
 
 ## Min IT resa
-För 10 år sedan byggde jag min första dator och sen dess har hårdvara varit ett av mina största intressen, ju mer jag satte mig in i teknologi så lärde jag mig mer och mer. Det var genom spelet World of Warcraft som intresset för ui design kom då jag byggde egna gränssnitt i spelet med hjälp av addons för mig och mina kompisar.
+För 10 år sedan byggde jag min första dator och sen dess har hårdvara varit ett av mina största intressen, ju mer jag satte mig in i teknologi så lärde jag mig mer och mer. Det var genom spelet World of Warcraft som intresset för ui design kom då jag byggde egna gränssnitt i spelet för att förbättra min spelupplevelse.
 
 ## The Great Journey - LIA
 

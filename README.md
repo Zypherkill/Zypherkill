@@ -2,7 +2,7 @@
 
 ## Om mig
 Läser webbutveckling vid Folkuniversitet i Karlstad, gillar att hålla på med ux/ui design framförallt och jobbar mycket i figma samt react för att skapa mina applikationer.
-Har kunskapar i backend och kan skapa upp funktionalitet samt api:er, men det är av mina mindre intressen inom webbutveckling.
+Jag har kunskapar i backend och kan skapa upp en säker backend i serverless och express, men jag föredrar att lägga mitt fokus på frontend utvecklingen.
 
 ## Min IT resa
 För 10 år sedan byggde jag min första dator och sen dess har hårdvara varit ett av mina största intressen, ju mer jag satte mig in i teknologi så lärde jag mig mer och mer. Det var genom spelet World of Warcraft som intresset för ui design kom då jag byggde egna gränssnitt i spelet med hjälp av addons för mig och mina kompisar.

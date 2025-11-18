@@ -1,10 +1,11 @@
 # Hello there 👋
 
 ## Om mig
-En trevlig kille på 29 år från lilla orten Kil som läser till webbutvecklare på Folkuniversitet. Det som jag tycker personligen är det roligaste inom webbutveckling är ux/ui designen, att få se något komma till liv ger mig ett stort leende på läpparna. Utanför studierna jobbar jag med tennis både som tränare och tävlingsledare, en sport som gett mig mycket social kompetens och ett starkt psyke.
+Läser webbutveckling vid Folkuniversitet i Karlstad, gillar att hålla på med ux/ui design framförallt och jobbar mycket i figma samt react för att skapa mina applikationer.
+Har kunskapar i backend och kan skapa upp funktionalitet samt api:er, men det är av mina mindre intressen inom webbutveckling.
 
 ## Min IT resa
-Starten började för ca 10 år sedan då jag byggde min första speldator, att pyssla med hårdvara och få allting att fungera för första gången var en känsla som jag aldrig kommer att glömma. Sen dess var hårdvara mitt största intresse och med åren så växte mitt intresse for ui design genom datorspelet world of warcraft, där jag designade ui för mig själv och kompisar för att göra en lättare och bättre spelupplevelse. Där hittade jag min passion för design och vände mig mot studier inom webbutveckling och därav påbörjade min utbildning hos Folkuniversitetet.
+För 10 år sedan byggde jag min första dator och sen dess har hårdvara varit mitt största intresse, ju mer jag satte mig in i teknologi så lärde jag mig mer och mer. Det var genom spelet World of Warcraft som intresset för ui design kom då jag byggde egna gränssnitt i spelet med hjälp av addons för mig och mina kompisar.
 
 ## The Great Journey - LIA
 

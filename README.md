@@ -8,6 +8,7 @@ Jag har kunskapar i backend och kan skapa upp en säker backend i serverless och
 För 10 år sedan byggde jag min första dator och sen dess har hårdvara varit ett av mina största intressen, ju mer jag satte mig in i teknologi så lärde jag mig mer och mer. Det var genom spelet World of Warcraft som intresset för ui design kom då jag byggde egna gränssnitt i spelet för att förbättra min och andras spelupplevelse.
 
 ## The Great Journey - LIA
+Var med och utvecklade deras Games & Studios sida, arbetet utfördes på platformer wix. Det var en period som inte var så lärorik bortsett från att man fick lära sig ett nytt verktyg inom webbutveckling och det var simpelt att lära sig, vi skapade även upp databaser åt dem för att de lättare skulle kunna få in information på deras sida utan att behöva manuellt lägga in någonting utan låta det ske på automatic. Bortsett från det så skapade vi upp individuella sidor med dynamic pages för de studios som representeras på deras sida för att ge ut och visa mer information.
 
 ## Tekniker
 

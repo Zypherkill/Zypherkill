@@ -25,7 +25,7 @@ About 10 years ago I built my first gaming pc and that is where my love for comp
 ![Express.js](https://img.shields.io/badge/Express.js-404D59.svg?style=for-the-badge&logo=express&logoColor=61DAFB)
 ![Serverless](https://img.shields.io/badge/Serverless-FD5750.svg?style=for-the-badge&logo=serverless&logoColor=white)
 
-### Övrigt
+### Other tools
 ![Git](https://img.shields.io/badge/Git-F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)

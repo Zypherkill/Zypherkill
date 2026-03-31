@@ -20,12 +20,12 @@ In the game World of Warcraft is where my love for UI Design began as I made UI'
 ### Backend
 ![C#](https://img.shields.io/badge/C%23-239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59.svg?style=for-the-badge&logo=express&logoColor=61DAFB)
+![Serverless](https://img.shields.io/badge/Serverless-FD5750.svg?style=for-the-badge&logo=serverless&logoColor=white)
 
 ### Cloud
 ![AWS](https://img.shields.io/badge/AWS-232F3E.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59.svg?style=for-the-badge&logo=express&logoColor=61DAFB)
-![Serverless](https://img.shields.io/badge/Serverless-FD5750.svg?style=for-the-badge&logo=serverless&logoColor=white)
 
 ### Other tools
 ![Git](https://img.shields.io/badge/Git-F05033.svg?style=for-the-badge&logo=git&logoColor=white)

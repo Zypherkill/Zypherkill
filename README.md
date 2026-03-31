@@ -8,7 +8,7 @@ About 10 years ago I built my first gaming pc and that is where my love for comp
 
 In the game World of Warcraft is where my love for UI Design began as I made UI's for myself and my friends to improve the gaming experience. Thanks to the growth of my interest in UI design I got interested in designing websites and decided to pursue a career in it.
 
-## Tekniker
+## Tech Stack
 
 ### Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)

@@ -1,14 +1,10 @@
 # Hello there 👋
 
-## Om mig
-Läser webbutveckling vid Folkuniversitet i Karlstad, gillar att hålla på med ux/ui design framförallt och jobbar mycket i figma samt react för att skapa mina applikationer.
-Jag har kunskapar i backend och kan skapa upp en säker backend i serverless och express, men jag föredrar att lägga mitt fokus på frontend utvecklingen.
+## About Me
+Studying web development in Karlstad Sweden and graduating in summer of 2026, lives in a small suburbon area in Värmland. Likes to work with UI/UX Design and do a lot of work in Figma and then do development in React but I can also build a solid Backend with NodeJS in AWS/Serverless and Express.
 
-## Min IT resa
-För 10 år sedan byggde jag min första dator och sen dess har hårdvara varit ett av mina största intressen, ju mer jag satte mig in i teknologi så lärde jag mig mer och mer. Det var genom spelet World of Warcraft som intresset för ui design kom då jag byggde egna gränssnitt i spelet för att förbättra min och andras spelupplevelse.
-
-## The Great Journey - LIA
-Var med och utvecklade deras Games & Studios sida, arbetet utfördes på platformer wix. Det var en period som inte var så lärorik bortsett från att man fick lära sig ett nytt verktyg inom webbutveckling och det var simpelt att lära sig, vi skapade även upp databaser åt dem för att de lättare skulle kunna få in information på deras sida utan att behöva manuellt lägga in någonting utan låta det ske på automatik. Bortsett från det så skapade vi upp individuella sidor med dynamic pages för de studios som representeras på deras sida för att ge ut och visa mer information.
+## My It Journey
+About 10 years ago I built my first gaming pc and that is where my love for computer hardware began, my knowledge about every single component is wide and I continued to explore the world and got into UI Design in the game World of Warcraft. So then I decided to pursue a career into Web Development and that is where I am today!
 
 ## Tekniker
 

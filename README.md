@@ -4,7 +4,7 @@
 From a small suburbon area in Värmland and currently studying web development in Karlstad Sweden and graduating in the summer of 2026. Likes to work with UI/UX Design and do a lot of work in Figma and development in React but I can also build a solid Backend with NodeJS in AWS/Serverless and Express. I am currently employed part-time as a tennis coach where I live and focus on teaching adults and high school kids the way of tennis.
 
 ## My IT Journey
-About 10 years ago I built my first gaming pc and that is where my love for computer hardware began, my knowledge about every single component is wide and I continued to explore the world of IT. In the game World of Warcraft is where my love for UI Design began as I made UI's for myself and my friends to improve the experience. Thanks to the growth of my interest in UI design I got interested in designing websites and decided to pursue a career into it.
+About 10 years ago I built my first gaming pc and that is where my love for computer hardware began, my knowledge about every single component is wide and I continued to explore the world of IT. In the game World of Warcraft is where my love for UI Design began as I made UI's for myself and my friends to improve the experience. Thanks to the growth of my interest in UI design I got interested in designing websites and decided to pursue a career in it.
 
 ## Tekniker
 

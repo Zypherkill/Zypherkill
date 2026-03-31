@@ -6,7 +6,7 @@ From a small suburbon area in Värmland and currently studying web development i
 ## My IT Journey
 About 10 years ago I built my first gaming pc and that is where my love for computer hardware began, my knowledge about every single component is wide and I continued to explore the world of IT.
 
-In the game World of Warcraft is where my love for UI Design began as I made UI's for myself and my friends to improve the experience. Thanks to the growth of my interest in UI design I got interested in designing websites and decided to pursue a career in it.
+In the game World of Warcraft is where my love for UI Design began as I made UI's for myself and my friends to improve the gaming experience. Thanks to the growth of my interest in UI design I got interested in designing websites and decided to pursue a career in it.
 
 ## Tekniker
 

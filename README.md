@@ -46,11 +46,3 @@ These days I focus on building clean, responsive frontends with React and TypeSc
 ![GitHub](https://img.shields.io/badge/GitHub-121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-
----
-
-## Currently Learning
-
-- Expanding my Python and backend architecture knowledge
-- Exploring multi-tenant app design and group-based systems
-- Deepening my understanding of deployment and cloud infrastructure

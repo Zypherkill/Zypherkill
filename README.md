@@ -49,24 +49,6 @@ These days I focus on building clean, responsive frontends with React and TypeSc
 
 ---
 
-## Featured Project
-
-### 🎌 Bingehive
-A private shared anime library app built for two users. Search for anime, manage a shared watchlist, track watch status, and leave personal ratings and notes — all synced in real time via WebSockets.
-
-**Stack:** FastAPI · PostgreSQL · Next.js · TypeScript · Tailwind CSS · Supabase · WebSockets  
-**Deployed on:** Railway (backend) · Vercel (frontend)
-
-**Highlights:**
-- JWT authentication with session persistence
-- Real-time library updates via WebSockets
-- MyAnimeList API integration for anime search
-- AniList API integration for streaming service links
-- Supabase Storage for avatar uploads
-- Fully mobile responsive
-
----
-
 ## Currently Learning
 
 - Expanding my Python and backend architecture knowledge

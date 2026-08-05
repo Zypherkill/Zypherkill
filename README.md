@@ -16,6 +16,9 @@ These days I focus on building clean, responsive frontends with React and TypeSc
 
 ---
 
+## Images
+![Bingehive](bingehive.jpg)
+
 ## Tech Stack
 
 ### Frontend
